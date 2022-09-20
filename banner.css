@@ -1,0 +1,7 @@
+.section-do-banner {
+    background-image: url(imagens/joker-banner.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
